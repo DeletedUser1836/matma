@@ -1,2 +1,2 @@
-#Matematyczne rzeczy które zrobiłem
+# Matematyczne rzeczy które zrobiłem
 Robiłem wszystko sam(chyba), i co najważniejsze, to DZIAŁA!
